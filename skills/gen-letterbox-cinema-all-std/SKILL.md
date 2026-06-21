@@ -1,0 +1,20 @@
+---
+id: gen-letterbox-cinema-all-std
+title: 레터박스 시네마 — 공통
+platform: all
+category: aesthetic
+difficulty: beginner
+tags: [aesthetic, letterbox, standard, all]
+author: EZCut
+license: Non-commercial evaluation only (see repo LICENSE)
+---
+
+# 레터박스 시네마 — 공통
+
+상하 시네마틱 바와 영화 톤으로 격을 더해.
+
+## 프롬프트
+상하 시네마틱 바와 영화 톤으로 격을 더해.
+
+## 언제 쓰나
+여행·필름에 적합. 일관된 톤·색은 신뢰와 브랜드 회상을 만든다 — 같은 소스도 그레이딩만으로 '프로'로 인식돼 클릭률과 완주율이 오른다.

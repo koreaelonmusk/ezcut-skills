@@ -1,6 +1,7 @@
 ---
 id: gen-soft-glow-all-std
 title: 소프트 글로우 — 공통
+title_en: Soft Glow — All
 platform: all
 category: aesthetic
 difficulty: beginner
@@ -18,3 +19,15 @@ license: Non-commercial evaluation only (see repo LICENSE)
 
 ## 언제 쓰나
 감성·뷰티에 적합. 일관된 톤·색은 신뢰와 브랜드 회상을 만든다 — 같은 소스도 그레이딩만으로 '프로'로 인식돼 클릭률과 완주율이 오른다.
+
+---
+
+# Soft Glow — All (English)
+
+Softly bloom highlights with warm tone.
+
+## Prompt
+Softly bloom highlights with warm tone.
+
+## When to use
+Great For emotional/beauty. Consistent tone/color builds trust and brand recall — grading alone reads as 'pro,' lifting CTR and completion.

@@ -1,6 +1,7 @@
 ---
 id: gen-direct-address-all-std
 title: 직접 지목 훅 — 공통
+title_en: Direct Address — All
 platform: all
 category: hook
 difficulty: beginner
@@ -18,3 +19,15 @@ license: Non-commercial evaluation only (see repo LICENSE)
 
 ## 언제 쓰나
 설득 콘텐츠에 적합. 조회수의 80%는 첫 3초에 갈린다 — 알고리즘은 초반 swipe-away(이탈률)를 노출 억제 신호로 읽으므로 hook rate를 최우선으로 설계한다.
+
+---
+
+# Direct Address — All (English)
+
+Open addressing the viewer directly in a caption.
+
+## Prompt
+Open addressing the viewer directly in a caption.
+
+## When to use
+Great For persuasion. 80% of views are decided in the first 3s — the algorithm reads early swipe-away as a suppression signal, so hook rate is the #1 lever.

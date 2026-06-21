@@ -1,0 +1,31 @@
+EZCut Skills — Non-Commercial Evaluation License
+© EZCut (koreaelonmusk). All rights reserved.
+
+이 저장소의 스킬(프롬프트·SKILL.md·registry.json 등 모든 콘텐츠)은 EZCut의 자산입니다.
+공개된 것은 "기본(basic) 샘플"에 한하며, 전체 라이브러리는 비공개 회사 자산입니다.
+
+■ 허용 (Permitted)
+- 개인적·비영리 학습 및 평가 목적의 열람·사용.
+- EZCut 앱 내에서의 개인 콘텐츠 제작 사용.
+
+■ 금지 (Prohibited) — 명시적 사전 서면 동의 없이 다음을 금합니다:
+- 영리적(상업적) 이용 일체: 판매·재판매·유료 서비스/제품에의 포함·대행 서비스 제공.
+- 재배포·복제·2차 저작물 작성 및 공개 배포.
+- 경쟁 제품·서비스에의 편입 또는 이를 위한 참조.
+- 머신러닝/LLM 학습 데이터로의 사용, 대량 추출(scraping)·데이터셋화.
+- EZCut 또는 koreaelonmusk 표기·출처의 제거.
+
+■ 보증/책임 (No Warranty)
+본 콘텐츠는 "있는 그대로(AS IS)" 제공되며 어떠한 보증도 하지 않습니다.
+
+영리적 이용·라이선스 문의: 저장소 소유자(koreaelonmusk)에게 사전 서면 동의를 받으십시오.
+무단 영리 이용은 저작권 및 관련 법률 위반이며 법적 책임을 물을 수 있습니다.
+
+---
+EZCut Skills — Non-Commercial Evaluation License (English summary)
+All content © EZCut. Only basic samples are public; the full library is a private company asset.
+Permitted: personal, non-commercial learning/evaluation, and personal creation within the EZCut app.
+Prohibited (without prior written consent): any commercial use, resale, inclusion in paid
+products/services, redistribution, derivative works, incorporation into competing products,
+use as ML/LLM training data, bulk scraping, or removal of attribution.
+Provided AS IS, no warranty. Contact the repo owner for commercial licensing.

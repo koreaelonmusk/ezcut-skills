@@ -1099,6 +1099,27 @@
    "promptEn": "Add a natural 'link in bio' cue at conversion. Express it boldly and aggressively.",
    "whenToUse": "세일즈에 적합. CTA는 '가치를 받은 직후'에 전환이 가장 높다 — 저장·공유·댓글은 알고리즘이 좋아하는 강한 참여 신호다.",
    "whenToUseEn": "Great For sales. CTAs convert best right after value lands — saves/shares/comments are the engagement signals algorithms reward most."
+  },
+  {
+   "id": "cinematic-hook",
+   "name": "시네마틱 오프닝 훅",
+   "nameEn": "Cinematic Opening Hook",
+   "platform": "youtube",
+   "category": "hook",
+   "difficulty": "intermediate",
+   "description": "영화 예고편처럼 첫 5초를 강렬한 비주얼+자막으로 열어 기대감을 만든다.",
+   "descriptionEn": "Open the first 5s like a movie trailer with bold visuals + caption.",
+   "tags": [
+    "hook",
+    "cinematic",
+    "opening"
+   ],
+   "author": "koreaelonmusk",
+   "uses": 1,
+   "prompt": "첫 5초를 영화 예고편처럼 편집해줘 — 가장 임팩트 있는 장면을 시네마틱 색보정과 함께 보여주고, 짧고 강한 한 줄 자막으로 기대감을 만들어줘.",
+   "promptEn": "Edit the first 5s like a movie trailer — show the most impactful shot with cinematic grading and a short bold one-line caption to build anticipation.",
+   "whenToUse": "브랜드 필름·스토리·다큐형 콘텐츠 도입부. 시네마틱 오프닝은 채널의 격을 즉시 끌어올린다.",
+   "whenToUseEn": "For brand films, story, and documentary intros. A cinematic opening instantly elevates channel quality."
   }
  ],
  "license": "© EZCut. Non-commercial evaluation only — no commercial use/redistribution without written consent. See LICENSE."

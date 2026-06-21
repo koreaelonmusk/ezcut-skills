@@ -1,6 +1,6 @@
 {
  "version": 1,
- "note": "EZCut public BASIC skills (50). Full 2000-skill pro library is private (in-app).",
+ "note": "EZCut public BASIC skills (sample). Full library private. Non-commercial use only.",
  "skills": [
   {
    "id": "registry-live-check",
@@ -1100,5 +1100,6 @@
    "whenToUse": "세일즈에 적합. CTA는 '가치를 받은 직후'에 전환이 가장 높다 — 저장·공유·댓글은 알고리즘이 좋아하는 강한 참여 신호다.",
    "whenToUseEn": "Great For sales. CTAs convert best right after value lands — saves/shares/comments are the engagement signals algorithms reward most."
   }
- ]
+ ],
+ "license": "© EZCut. Non-commercial evaluation only — no commercial use/redistribution without written consent. See LICENSE."
 }
